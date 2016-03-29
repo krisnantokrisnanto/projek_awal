@@ -4,7 +4,7 @@
 	<title>CRUD_ajak</title>
 	<style type="text/css">
 	body{
-		font-family: arial;
+		font-family: calibri;
 	}
 	#tampildata{
 
