@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CRUD_ajak</title>
+	<title>CRUD</title>
 	<style type="text/css">
 	body{
 		font-family: calibri;
