@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CRUD_ajak</title>
+	<title>CRUD_ajak_tutorial</title>
 	<style type="text/css">
 	body{
-		font-family: arial;
+		font-family: calibri;
 	}
 	#tampildata{
 
@@ -110,5 +110,6 @@
 
 	});
 	</script>
+	<h2>thread</h2>
 </body>
 </html>
